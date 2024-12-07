@@ -1,0 +1,14 @@
+Open up the terminal and type:
+
+"pip install -r requirements.txt"
+
+This will setup the environment
+
+After this run command:
+
+"python run.py"
+
+Script code is in ./src/main.py
+
+
+Made by Lagrange :) 
